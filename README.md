@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Convenience
 <img src="https://github.com/convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto/blob/main/Convenience%20Chibatamoto%20GitHub%20Gif.gif" alt="Banner that says Convenience Chibatamoto - software developer, skills displayed">
 <p>🌱 I'm currently learning R while sharpening my skills in C#, JavaScript, and React.</p>
 <p>❓ Ask me about anything related to timeseries predictions in Python and related technologies.</p>  
