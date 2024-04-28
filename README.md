@@ -15,6 +15,9 @@
 <a href="https://www.kaggle.com/linedpenguin" target="_blank">
 <img src=https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
+ <a href="mailto:conveniencechibatamoto@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 </div> 
 
 <br/>  
