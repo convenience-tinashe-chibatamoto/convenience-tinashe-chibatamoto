@@ -1,5 +1,6 @@
 ### Hi there 👋
 <img src="https://github.com/convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto/blob/main/Convenience%20Chibatamoto%20GitHub%20Gif.gif" alt="Banner that says Convenience Chibatamoto - software developer, skills displayed">
+<p>🌱 I'm currently learning R while sharpening my skills in C#, JavaScript, and React.</p>
 <!--
 **convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
