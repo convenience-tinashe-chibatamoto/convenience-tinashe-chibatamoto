@@ -3,7 +3,7 @@
 
 <p>❓ Ask me about anything related to timeseries predictions in Python and related technologies.</p>  
 <p>🌱 I'm currently learning R while sharpening my skills in C#, JavaScript, and React.</p>
-<p>⚡ Fun fact: I think it's okay use a dedicated GPU to play Asphalt 9.</p>  
+<p>⚡ Fun fact: I defeated <em>Dr. Zomboss</em> in <em>Plants vs Zombies</em>!</p>  
  
 ## Connect with me  
 <div align="center">
