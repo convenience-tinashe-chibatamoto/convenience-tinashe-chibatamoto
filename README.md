@@ -2,7 +2,7 @@
 <img src="https://github.com/convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto/blob/main/Convenience%20Chibatamoto%20GitHub%20Gif.gif" alt="Banner that says Convenience Chibatamoto - software developer, skills displayed">
 
 <p>❓ Ask me about anything related to timeseries predictions in Python and related technologies.</p>  
-<p>🌱 I'm currently learning R while sharpening my skills in C#, JavaScript, and React.</p>
+<p>🌱 I'm currently learning R while sharpening my skills in C++.</p>
 <p>⚡ Fun fact: I defeated <em>Dr. Zomboss</em> in <em>Plants vs Zombies</em>!🌱🧟‍♂️💥 </p>  
  
 ## Connect with me  
