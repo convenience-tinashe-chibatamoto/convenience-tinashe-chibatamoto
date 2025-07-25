@@ -27,8 +27,6 @@
 <table><tr><td valign="top" width="33%">
 
 
-[![committers.top badge](https://user-badge.committers.top/zimbabwe/convenience-tinashe-chibatamoto.svg)](https://user-badge.committers.top/zimbabwe/convenience-tinashe-chibatamoto)
-
 ### Skills  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
