@@ -85,6 +85,7 @@
   <h3>🗄️ Database</h3>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_sql_server-icon.svg" alt="MS SQL Server" height="50" /></a>
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" />
   
   <h3>🛠️ Tools & Libraries</h3>
@@ -197,14 +198,7 @@
 <br/>
 
 <div align="center">
-  <h2>📈 Contribution Activity Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=convenience-tinashe-chibatamoto&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h2>🐍 GitHub Activity Snake</h2>
+  <h2>� Convenience's GitHub Activity</h2>
   <img src="https://raw.githubusercontent.com/convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
