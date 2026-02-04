@@ -46,6 +46,17 @@
   <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>
   <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" /></a>
   <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>
+  <a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Transformers" height="50" /></a>
+  
+  <h3>📊 NLP & Sentiment Analysis</h3>
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="VADER" height="50" title="VADER Sentiment" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="FinBERT" height="50" title="FinBERT" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" height="50" />
+  
+  <h3>💹 Algorithmic Trading & Finance</h3>
+  <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/metatrader-5.svg" alt="MetaTrader 5" height="50" title="MQL5" />
+  <img style="margin: 10px" src="https://img.icons8.com/color/452/bitcoin--v1.png" alt="Crypto Trading" height="50" title="Cryptocurrency" />
+  <img style="margin: 10px" src="https://img.icons8.com/color/452/stocks.png" alt="Stock Trading" height="50" title="Stock Market" />
   
   <h3>⚙️ Programming Languages</h3>
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
@@ -57,9 +68,111 @@
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
   <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
+  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="TailwindCSS" height="50" /></a>
+  <a href="https://vitejs.dev/" target="_blank"><img style="margin: 10px" src="https://vitejs.dev/logo.svg" alt="Vite" height="50" /></a>
+  
+  <h3>📱 Mobile Development</h3>
+  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
+  <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
   
   <h3>🗄️ Database</h3>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" />
+  
+  <h3>🛠️ Tools & Libraries</h3>
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" height="50" />
+  <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="50" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" height="50" />
+  <img style="margin: 10px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" height="50" />
+  
+  <h3>🕷️ Web Scraping & Automation</h3>
+  <img style="margin: 10px" src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="Selenium" height="50" title="Selenium WebDriver" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Crawl4AI" height="50" title="Crawl4AI" />
+  <img style="margin: 10px" src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_static/bs.png" alt="BeautifulSoup" height="50" title="BeautifulSoup" />
+  
+  <h3>🎨 Design & Graphics</h3>
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="PIL" height="50" title="Pillow (PIL)" />
+  <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Image Processing" height="50" title="Image Processing" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🌿 Wholeness Konneckt</h3>
+        <p>AI-powered mental health & wellness Flutter app</p>
+        <ul align="left">
+          <li>🧠 Multi-modal AI diagnosis (text, voice, visual analysis)</li>
+          <li>� Personalized treatment plans & wellness tracking</li>
+          <li>📊 Interactive data visualization with fl_chart</li>
+          <li>🔒 HIPAA-compliant with biometric authentication</li>
+          <li>🎨 Built with Flutter, Riverpod, Hive, Dart</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>�📰 News Sentiment Scanner</h3>
+        <p>Advanced NLP system for financial market sentiment analysis</p>
+        <ul align="left">
+          <li>🎯 Multi-source news aggregation (Google News, Yahoo Finance)</li>
+          <li>🤖 FinBERT & VADER sentiment analysis</li>
+          <li>📊 Real-time market sentiment tracking for Gold, NASDAQ, US30</li>
+          <li>🔧 Built with Transformers, BeautifulSoup, TextBlob</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>💰 BTCUSD Scalping Bot</h3>
+        <p>Professional algorithmic trading system for Bitcoin</p>
+        <ul align="left">
+          <li>⚡ High-frequency scalping strategy in MQL5</li>
+          <li>📈 Multi-indicator system (EMA, RSI, Bollinger Bands)</li>
+          <li>🎯 Advanced risk management with partial TP levels</li>
+          <li>🔒 Break-even & trailing stop loss automation</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🕷️ DeepSeek AI Web Crawler</h3>
+        <p>Intelligent async web scraper with LLM extraction</p>
+        <ul align="left">
+          <li>🚀 Asynchronous crawling with Crawl4AI</li>
+          <li>🤖 LLM-powered data extraction using Groq API</li>
+          <li>📊 Automated CSV export with Pydantic models</li>
+          <li>⚙️ Modular architecture for easy customization</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>🎙️ ICN Podcast Show</h3>
+        <p>Modern podcast platform with React & TypeScript</p>
+        <ul align="left">
+          <li>⚛️ Built with React 18, TypeScript, Vite</li>
+          <li>🎨 TailwindCSS for responsive design</li>
+          <li>✨ Framer Motion animations</li>
+          <li>🎯 Lucide React icons & modern UI/UX</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h3>🤖 Selenium Auto Login Suite</h3>
+        <p>Automated web testing & authentication system</p>
+        <ul align="left">
+          <li>🔐 Automated login workflows with Selenium WebDriver</li>
+          <li>⏱️ Explicit waits for reliable element interaction</li>
+          <li>🔧 WebDriver Manager for automatic driver updates</li>
+          <li>📸 PIL-based social media graphics generator</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+  
+  <p><strong>Specializations:</strong> Time Series Forecasting • Financial NLP • Algorithmic Trading • Market Sentiment Analysis • Mobile App Development • Web Scraping & Automation • AI-Powered Healthcare Solutions</p>
 </div>  
 
 <br/>
