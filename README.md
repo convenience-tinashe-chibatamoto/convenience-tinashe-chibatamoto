@@ -198,7 +198,7 @@
 <br/>
 
 <div align="center">
-  <h2>� Convenience's GitHub Activity</h2>
+  <h2>Convenience's GitHub Activity</h2>
   <img src="https://raw.githubusercontent.com/convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
 </div>
 
