@@ -79,7 +79,7 @@
 
 <div align="center">
   <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=convenience-tinashe-chibatamoto&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=convenience-tinashe-chibatamoto&theme=tokyo-night&hide_border=false&area=true&custom_title=Contribution%20Graph%20(Last%20Year)&days=365" alt="Contribution Graph" />
 </div>
 
 <br/>
