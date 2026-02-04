@@ -10,6 +10,7 @@
   <p>⚡ Fun fact: I defeated <em>Dr. Zomboss</em> in <em>Plants vs Zombies</em>! 🌱🧟‍♂️💥</p>
   
   <img src="https://komarev.com/ghpvc/?username=convenience-tinashe-chibatamoto&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/stars/convenience-tinashe-chibatamoto?style=social" alt="GitHub Stars" />
 </div>  
  
 <div align="center">
@@ -59,10 +60,14 @@
   <img style="margin: 10px" src="https://img.icons8.com/color/452/stocks.png" alt="Stock Trading" height="50" title="Stock Market" />
   
   <h3>⚙️ Programming Languages</h3>
+  <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>
   <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
+  <a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" /></a>
   <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
   <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
+  <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>
   
   <h3>🌐 Web Development</h3>
   <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -79,6 +84,7 @@
   
   <h3>🗄️ Database</h3>
   <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
   <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" height="50" />
   
   <h3>🛠️ Tools & Libraries</h3>
@@ -172,7 +178,7 @@
     </tr>
   </table>
   
-  <p><strong>Specializations:</strong> Time Series Forecasting • Financial NLP • Algorithmic Trading • Market Sentiment Analysis • Mobile App Development • Web Scraping & Automation • AI-Powered Healthcare Solutions</p>
+  <p><strong>Specializations:</strong> Time Series Forecasting • Financial NLP • Algorithmic Trading • Market Sentiment Analysis • Web Development • Mobile App Development • Web Scraping & Automation • AI-Powered Healthcare Solutions</p>
 </div>  
 
 <br/>
@@ -191,8 +197,8 @@
 <br/>
 
 <div align="center">
-  <h2>🎯 3D Contribution Calendar</h2>
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=convenience-tinashe-chibatamoto&theme=tokyonight&animation=true" alt="3D Contribution Calendar" />
+  <h2>📈 Contribution Activity Graph</h2>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=convenience-tinashe-chibatamoto&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Activity Graph" />
 </div>
 
 <br/>
