@@ -45,6 +45,14 @@
 </td></tr></table>  
 
 <br/> 
+
+## GitHub Activity Snake 🐍
+<div align="center">
+  <img src="https://raw.githubusercontent.com/convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</div>
+
+<br/>
+
 <!--
 **convenience-tinashe-chibatamoto/convenience-tinashe-chibatamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
